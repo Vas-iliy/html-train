@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e8d92a48-6d90-485f-8de3-9296f5ff5559" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/css/style_4.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index_4.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/style_3.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index_3.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,8 +21,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -59,7 +60,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599748535508</updated>
-      <workItem from="1599748537007" duration="5552000" />
+      <workItem from="1599748537007" duration="7977000" />
     </task>
     <servers />
   </component>
@@ -71,9 +72,17 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="988" y="336" key="NewPhpFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1599748559253" />
+    <state x="793" y="145" width="700" height="530" key="recent.locations.popup" timestamp="1599757535054">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="793" y="145" width="700" height="530" key="recent.locations.popup/0.0.1536.824@0.0.1536.824" timestamp="1599757535054" />
     <state x="809" y="189" key="run.anything.popup" timestamp="1599750027447">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="809" y="189" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1599750027447" />
+    <state x="814" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1599756536466">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="814" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1599756536466" />
   </component>
 </project>
