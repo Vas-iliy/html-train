@@ -1,0 +1,38 @@
+.main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    background-color: violet;
+}
+.card {
+    display: flex;
+    align-items: center;
+    background-color: red;
+    justify-content: center;
+    width: 20%;
+    height: 40%;
+}
+.text {
+    margin: 0;
+}
+/*Второй способ, он для работы с картинками в основном*/
+/*.main {
+    position: relative;
+    height: 700px;
+    background-color: violet;
+}
+.card {
+    !*display: inline-block;*!
+    background-color: red;
+    width: 20%;
+    height: 200px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+.text {
+    margin: 0;
+}*/
+
