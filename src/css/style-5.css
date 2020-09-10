@@ -1,0 +1,29 @@
+.first, .second {
+    display: inline-block;
+    width: 300px;
+}
+.first {
+    background-color: red;
+    height: 200px;
+    vertical-align: middle;
+}
+.second {
+    background-color: green;
+    height: 100px;
+    /*vertical-align: middle;*/
+}
+.three, .four {
+    display: inline-block;
+    width: 300px;
+    margin: 20px;
+}
+.three {
+    background-color: aqua;
+    height: 300px;
+    /*vertical-align: bottom;*/
+}
+.four {
+    background-color: darkblue;
+    height: 150px;
+    vertical-align: super;
+}
