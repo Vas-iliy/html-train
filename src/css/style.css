@@ -1,0 +1,24 @@
+.description {
+    background-color: aqua;
+    position: fixed;
+}
+.text-description {
+    text-align: center;
+    color: chocolate;
+}
+a {
+    color: chocolate;
+    text-decoration: none;
+}
+li {
+    list-style-type: none;
+}
+p {
+    padding-left: 20px;
+}
+.text-color {
+    color: blue;
+}
+.text-bold {
+
+}
